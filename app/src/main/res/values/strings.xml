@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HabitsL2</string>
+    <string-array name="spinner_priority_values">
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+        <item>Срочный</item>
+    </string-array>
+</resources>
